@@ -1,0 +1,5 @@
+export const CHANGE = "CHANGE"
+export const SET_FIELDS = "SET_FIELDS"
+export const SET_MODE = "SET_MODE"
+export const SET_ERRORS = "SET_ERRORS"
+export const RESET = "RESET"
